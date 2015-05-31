@@ -1,2 +1,2 @@
 # google-homepage
-mock up search engine home page
+mock up search engine home page, thanks
