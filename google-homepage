@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<head> 
+	<title>Welcome to Google, Please Search</title>
+	<link type="text/css" rel="stylesheet" href="google_styling.css">
+	/*website made by matthew parks*/
+</head>
+<body>
+	<nav class="navbar">
+		<ul>
+			<li>Google +</li>
+			<li>Gmail</li>
+			<li>Images</li>
+			<li class="dots">
+				<div class="apps"<div class="apps">
+    					<div class="apps" id="sq1"></div>
+						<div class="apps" id="sq2"></div>
+						<div class="apps" id="sq3"></div>
+						<div class="apps" id="sq4"></div>
+						<div class="apps" id="sq5"></div>
+						<div class="apps" id="sq6"></div>
+						<div class="apps" id="sq7"></div>
+						<div class="apps" id="sq8"></div>
+						<div class="apps" id="sq9"></div>
+				</div>
+			</li>
+			<li class="sign-in">Sign in</li>
+		</ul>
+	</nav>
+
+	<div class="HomePageContent">
+		<div class="vanillaGoogleLogo">
+			<img src="https://www.google.com/images/srpr/logo11w.png">
+		</div>
+		<div>
+			<form class="form>">
+				<input type ="text" size="70" class="searchbox">
+				<img src="http://i.imgur.com/ugBIhWz.gif" class="voice"/>
+			</form>
+		</div>
+		<div class="searchbuttons">
+			<button class="buttons">Google Search</button>
+			<button class="buttons">I'm feeling lucky</button>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="leftfoot">
+			<p>Advertising</p><p>BUsiness</p><p>About</p>
+		</div>
+		<div class="rightfoot">
+			<p>Privacy</p><p>Terms</p><p>Settings</p>
+		</div>
+	</div>
+</body>
+
+
+   
+ 
+
+
