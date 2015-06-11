@@ -57,12 +57,12 @@ nav ul li {
  background: linear-gradient(top,#4387fd,#4683ea);
 }
 
-.content {
+.HomePageContent {
  max-width:750px;
  margin:200px auto;
  }
 
-.logo {
+.vanillaGoogleLogo{
  margin:auto;
  max-width:280px;
 }
