@@ -3,7 +3,7 @@
 <head> 
 	<title>Welcome to Google, Please Search</title>
 	<link type="text/css" rel="stylesheet" href="google_styling.css">
-	/*website made by matthew parks*/
+	<!--website made by matthew parks-->
 </head>
 <body>
 	<nav class="navbar">
